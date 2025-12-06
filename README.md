@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammed Musharraf Khan</h1>
+<h1 align="center">Hi 👋, I'm Mohd Mohsin</h1>
 <h3 align="center">DevOps Engineer | AWS Cloud | CI/CD | Docker | Kubernetes | Terraform</h3>
 
 <p align="center">
@@ -8,12 +8,12 @@
 ---
 
 ### 🚀 About Me
-- 🎯 DevOps Engineer with **3 years of AWS Cloud experience**
+- 🎯 DevOps Engineer with **5 years of AWS Cloud experience**
 - 🧪 Skilled in **CI/CD, Docker, Kubernetes, Linux, and Terraform**
 - 📘 Currently building **end-to-end DevOps projects**
 - 🌱 Actively learning **Helm, ArgoCD, and GitOps**
 - 💼 Open to DevOps opportunities in **India & Gulf countries**
-- 📫 Reach me at: **mmkhanaws@gmail.com**
+- 📫 Reach me at: **mohsin.mmkhan1@gmail.com**
 
 ---
 
