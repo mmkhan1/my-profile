@@ -58,6 +58,5 @@ Terraform code to provision EC2, S3, IAM, Security Groups following best practic
 
 ### 🌐 Connect With Me
 <p>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a>https://www.linkedin.com/in/mohd-mohsin-a26a0687/</a>
+<a href="https://www.linkedin.com/in/mohd-mohsin-a26a0687/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
 </p>
